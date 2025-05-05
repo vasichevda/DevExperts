@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DevExpertsInterview</string>
+
+    <string name="joke_state_init">Let\'s start</string>
+    <string name="joke_state_loading">Loading</string>
+    <string name="joke_state_empty">No jokes</string>
+    <string name="joke_state_error">Error %1$s</string>
+</resources>
